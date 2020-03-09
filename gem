@@ -1,3 +1,81 @@
+require environment nokogiri
+require environment open-url 
+require environment bundler
+require environment pry
+
+require relative mycliProject version/0.0.1
+require relative mycliProject/cli
+relative relative mycliProject/ scraper
+
+
+
+
+
+Class mycliProject
+    attr_accessor :name, location, url, availability
+        @@all = []
+end
+    def initialize (0)
+        @name = name
+        @project = project
+        @url = url
+        @availability = availability
+        @@all << all
+
+    end
+def self.all
+    @self 
+ end
+
+def menu.new
+    puts input = nil
+    input = get.strip
+    case input
+        when "1"
+            puts"more info on page 1"
+        when "2"
+            puts""more info on page 2"
+        when list__list details
+
+def goodbye
+    puts " See you next time"
+    end
+    
+    else "Not sure what you want, type1,2,3, or exit"
+
+    end
+ 
+
+ def self.new_from_google(url)
+    end
+
+end
+
+
+array_of_links.map do |link|
+    binding.pry
+    MyCLIProject::Catagory.new(lnk.text, lnk, attributes,href, value)
+
+    section.css(text url and open description of object)
+    section.css(text url and open description of object)
+    section.css(text url and open description of object)
+    section.css(text url and open description of object)
+
+
+##self.Scraper.scrape_index_page(index_url)
+##self.Scraper.scrape_profile_page(profile_url)
+
+
+
+MyCLIProject.self 
+self.Scraper.new 
+self.Scraper.index_url
+self.Scraper.profile_url
+self.@all << self 
+
+
+    end
+end
 # Sample gem file
 
 #source "http://rubygems.org"

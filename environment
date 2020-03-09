@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Blueprint for my project includes
 
 
@@ -9,6 +10,8 @@ cannot find reposirtory with original data.
 Thank you for this opportunity
 
 
+=======
+>>>>>>> a2299caa9c481d54d45698c9282a3f5a75f20a29
 require '...lib/environment.rb
 require bundler
 require pry
