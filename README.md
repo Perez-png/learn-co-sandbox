@@ -1,3 +1,17 @@
+14format def one_plus_one
+  1+1
+end
+ 
+one_plus_one #this invokes the method
+
+The sum of 6+3
+total + 17
+
+def print_one_plus_one
+  puts 1+1
+end
+ 
+print_one_plus_one #this invokes the method
 
 Hi! 👋
 

@@ -1,0 +1,8 @@
+# Sample gem file
+
+#source "http://rubygems.org"
+gem rake
+gem pry
+gem require.all
+
+

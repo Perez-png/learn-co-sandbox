@@ -1,0 +1,7 @@
+require ....lib/relative
+require bundler
+require pry
+
+class myfirstCLIrealestate
+
+end
