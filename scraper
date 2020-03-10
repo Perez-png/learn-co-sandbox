@@ -2,6 +2,12 @@ require ....lib/relative
 require bundler
 require pry
 
-class myfirstCLIrealestate
+module myWAYway::CLI project
+
+end
+
+
+
+
 
 end
