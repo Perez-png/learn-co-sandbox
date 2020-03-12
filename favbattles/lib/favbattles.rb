@@ -1,6 +1,6 @@
-require "install/version"
+require "favbattles/version"
 
-module Install
+module Favbattles
   class Error < StandardError; end
   # Your code goes here...
 end
