@@ -1,4 +1,29 @@
 source "https://rubygems.org"
 
+require environment nokogiri
+require environment https://www.favbattles::CLI
+require environment bundler
+require envirnment "httparty"
+require environment pry
+
+
+Gem::Specification.new do |spec|
+  spec.name          = "favbattles"
+  spec.version       = Favbattles::VERSION
+  spec.authors       = ["'Xavier Perez'"]
+  spec.email         = ["'xperez007@gmail.com'"]
+  
+  
+favbattles::Catagory.new(lnk.text, lnk, attributes,href, value)
+    section.css(https://www.favbattles::API.com)
+    section.css(https://www.imdb.com/title/tt0021814/, dracula)
+    section.css( https://www.imdb.com/title/tt0021884/, frankenstein)
+    section.css( https://www.imdb.com/title/tt0034398/?ref_=ttls_li_i, wolfman)
+    
+
+
+
+
+
 # Specify your gem's dependencies in favbattles.gemspec
 gemspec

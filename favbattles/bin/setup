@@ -6,3 +6,57 @@ set -vx
 bundle install
 
 # Do any other automated setup that you need to do here
+
+CLI.rb 
+  puts "Please chose a letter for your search"
+  term = gets.chomp.downcase
+  favbattles::API.fetch_two (terms)
+  
+favbattles::CLI chose.all.each.with_index(1) do |d,index|
+  puts "#{index}, {dracula,frankenstein, wolfman}
+  puts...........
+
+favbattlesCLI::dracula_frankenstein_wolfman.each.do |each_one|
+  puts "#{dracula,frankenstein, wolfman}
+  
+end
+
+class favbattles::CLI terms
+  attr-accessor :dracula,:frankenstein,:wolfman
+    @@all = []
+    
+  end 
+
+def initialize(:dracula,:frankenstein, :wolfman)
+  @dracula = dracula
+  @frankenstein = frankenstein
+  @wolfman = wolfman
+  @@all<<self 
+  favbattles = definition.new(dracula_frankenstein_wolfman, example)
+end
+
+def self.all
+  @@all
+end
+
+self.all = self
+@@all = all
+term = term
+definition = definition
+
+end
+
+
+end
+
+
+
+  
+end
+
+favbattles.self 
+self.Scraper.new 
+self.Scraper.index_url
+self.Scraper.profile_url
+self.@all << self 
+

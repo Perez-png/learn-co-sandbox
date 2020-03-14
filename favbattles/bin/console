@@ -12,3 +12,46 @@ require "favbattles"
 
 require "irb"
 IRB.start(__FILE__)
+
+
+
+scraper (APi)?
+Scraper::CLI
+  #for each srticle of favbattles homepage
+  #gets article data such as h1, h2, h3
+  
+  def scrape_articles
+  @doc = nokogiri "HTML (open("http//favbattles.com))
+  @doc.search = article.search = ("li.user.block).each do 
+  [article_li]
+  url = article_li.search("h2.favbattles).attr(href)(text)
+  title = article_search ("h1.favbattles)(.text)(href) 
+  
+  (story = favbattles::CLI Story.new)[Story.save]
+  .load::CLI library
+  end
+  
+  scrape.new
+  scraper.all 
+  doc.all
+  article.all
+  story.all
+  
+  end
+  
+  end
+  
+  favbattles.self 
+self.Scraper.new 
+self.Scraper.index_url
+self.Scraper.profile_url
+self.@all << self 
+
+end
+
+
+  
+  url =  https://www.imdb.com/title/tt0021814/
+  url =  https://www.imdb.com/title/tt0021884/
+  url =  https://www.imdb.com/title/tt0034398/?ref_=ttls_li_i
+    

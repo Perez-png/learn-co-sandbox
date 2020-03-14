@@ -1,2 +1,17 @@
 require "bundler/gem_tasks"
 task :default => :spec
+
+
+require_favbattles::CLI 
+require environment nokogiri
+require environment open-url 
+require environment "HTTParty"
+require environment bundler
+require environment pry
+
+
+favbattles::Catagory.new(lnk.text, lnk, attributes,href, value)
+    section.css(https://www.favbattles::API.com)
+    section.css(https://www.imdb.com/title/tt0021814/, dracula)
+    section.css( https://www.imdb.com/title/tt0021884/,frankenstei)
+    section.css( https://www.imdb.com/title/tt0034398/?ref=ttls_li_i, wolfman)

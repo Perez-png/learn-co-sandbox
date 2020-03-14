@@ -1,0 +1,23 @@
+#!/usr/bin/env ruby
+
+CLI ruby (class favbattles::CLI)
+
+        This is How we do it in Cedar Creek
+1. Must be at least two levels deep
+2. Must have an API scraper
+3. Get information from API and save it into objects
+
+        And this is how it will happen
+        
+1. Pick an API (favbattles)
+2. Make sure we can get all information needed from said API to build this application
+3. Start formulating ideas on what to partake
+
+
+        Flow of favbattles
+1. Welcome user to favbattles
+2. Ask user about specific terms they would like to look up.
+3. I will ge tthis information from the API, save it, so I can get it later and then dislplay all of the definitions? or perhaps examples.
+4. I will then allow the user to chose the definition that best assists or fits their needs which can then tell them more information about the topic at hand.
+ 
+ 
